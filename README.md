@@ -1,5 +1,6 @@
 # NCLab
 Used for NCLab capstone project
+
 The latest file(capstone-project-task2) accomplished the following tasks in the proposal:
 
 Task 1: step into existing codes and get clear about the structure
