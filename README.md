@@ -1,16 +1,23 @@
-# NCLab
-Used for NCLab capstone project
+# Blackjack
 
-The latest file(capstone-project-task3) accomplished the following tasks in the proposal:
+## Project Description
 
-Task 1: step into existing codes and get clear about the structure
+## Project Functions
 
-Task 2: provide an option for users to determine the number of players
+This project simulates the blackjack game and includes the following six functions:
+* Function 1: Provide an option for users to determine the number of players
+* Function 2: Calculate and show the total value of existing cards for players
+* Function 3: Add double down options for players
+* Function 4: Provide buying insurance options for players
+* Function 5: Provide split card options for players
+* Function 6: Show the final scores and game results both for players and the dealer
 
-Task 3: calculate and show the total value of existing cards for players
+## Project Instructions
 
-Task 4: add double down options for players
+1. Open capstone-project-task4.py to start the program.
 
-Task 5: provide buying insurance options for players
+## Project Notes
 
-Task 7: show the final score and game result both for players and the dealer
+1. Uncommentting line 728 is used to test the split card function.
+2. Uncommentting line 734 is used to test the buying insurance function.
+3. Uncommentting line 736 is used to test the situation where the dealer gets blackjack from the first two cards.
