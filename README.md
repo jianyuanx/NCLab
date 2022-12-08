@@ -1,7 +1,7 @@
-# Blackjack
+# BlackJack
 
 ## Project Description
-This project simulates a popular card game, blackjack, in casinos and contributes to improving the existing open-source [Blackjack](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/BlackJack) program by adding additional six functions.
+This project simulates a popular card game, BlackJack, in casinos and contributes to improving the existing open-source [Blackjack](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/BlackJack) program by adding additional six functions.
 
 ## Project Functions
 On basis of the existing open-source program, this project adds the following six functions to the program:
